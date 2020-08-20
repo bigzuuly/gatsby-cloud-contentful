@@ -27,7 +27,7 @@ module.exports = {
   siteMetadata: {
     title: "Gatsby Contentful starter",
   },
-  pathPrefix: "/gatsby-contentful-starter",
+  pathPrefix: "/whoweare",
   plugins: [
     "gatsby-transformer-remark",
     "gatsby-transformer-sharp",
